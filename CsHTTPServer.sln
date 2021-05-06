@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsHTTPServer", "CsHTTPServer.csproj", "{BC460AD2-2E8F-4436-93CD-25EA830CE1A8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{BC460AD2-2E8F-4436-93CD-25EA830CE1A8}.Debug.ActiveCfg = Debug|.NET
+		{BC460AD2-2E8F-4436-93CD-25EA830CE1A8}.Debug.Build.0 = Debug|.NET
+		{BC460AD2-2E8F-4436-93CD-25EA830CE1A8}.Release.ActiveCfg = Release|.NET
+		{BC460AD2-2E8F-4436-93CD-25EA830CE1A8}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
